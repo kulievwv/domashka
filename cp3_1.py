@@ -1,6 +1,6 @@
 name=input("Введите имя: ")
 fam=input("Введите фамилию: ")
-year=input("Введите год рождения: ")
+year=int(input("Введите год рождения: "))
 A=name
 B=fam
 C=year
