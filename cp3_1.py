@@ -1,6 +1,9 @@
-A=("Ульви")
-B=("Кулиев")
-C=(2003)
+name=input("Введите имя: ")
+fam=input("Введите фамилию: ")
+year=input("Введите год рождения: ")
+A=name
+B=fam
+C=year
 D=("")
 print(A, end="_")
 print(B, end="_")
